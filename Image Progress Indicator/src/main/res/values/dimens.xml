@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="image_progress_indicator_horizontal_margin">40dp</dimen>
+</resources>
