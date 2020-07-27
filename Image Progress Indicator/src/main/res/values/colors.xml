@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="image_progress_indicator_background">#F1F1F1</color>
+    <color name="image_progress_indicator_foreground">#D1D1D1</color>
+    <color name="image_progress_indicator_text">#4A4F55</color>
+    <color name="image_progress_indicator_shape">#4A4F55</color>
+</resources>
