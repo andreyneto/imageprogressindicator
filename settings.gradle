@@ -1,3 +1,2 @@
-include ':Image Progress Indicator'
-include ':app'
+include ':image-progress-indicator'
 rootProject.name = "My Application"

@@ -1,4 +1,4 @@
-package app.sorocaba.imageprogressindicator
+package app.sorocaba.myapplication
 
 import android.annotation.SuppressLint
 import android.content.Context

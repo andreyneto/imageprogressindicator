@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
-        <app.sorocaba.imageprogressindicator.ImageProgressIndicator
+        <app.sorocaba.myapplication.ImageProgressIndicator
             android:id="@+id/image_progress_indicator"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
