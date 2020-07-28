@@ -1,0 +1,4 @@
+#Mon Jul 27 21:00:58 BRT 2020
+base.0=/Users/andreyneto/Documents/MyApplication/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

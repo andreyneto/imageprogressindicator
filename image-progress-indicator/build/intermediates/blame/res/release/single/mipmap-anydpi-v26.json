@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/andreyneto/Documents/MyApplication/image-progress-indicator/build/intermediates/res/merged/release/mipmap-anydpi-v26/ic_launcher_round.xml",
+        "source": "/Users/andreyneto/Documents/MyApplication/image-progress-indicator/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/andreyneto/Documents/MyApplication/image-progress-indicator/build/intermediates/res/merged/release/mipmap-anydpi-v26/ic_launcher.xml",
+        "source": "/Users/andreyneto/Documents/MyApplication/image-progress-indicator/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

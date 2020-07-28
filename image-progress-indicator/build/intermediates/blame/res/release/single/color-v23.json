@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/andreyneto/Documents/MyApplication/image-progress-indicator/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/andreyneto/.gradle/caches/transforms-2/files-2.1/2543087e170d6370694cede166017bbe/appcompat-1.1.0/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/andreyneto/Documents/MyApplication/image-progress-indicator/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/andreyneto/.gradle/caches/transforms-2/files-2.1/2543087e170d6370694cede166017bbe/appcompat-1.1.0/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/andreyneto/Documents/MyApplication/image-progress-indicator/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/andreyneto/.gradle/caches/transforms-2/files-2.1/2543087e170d6370694cede166017bbe/appcompat-1.1.0/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/andreyneto/Documents/MyApplication/image-progress-indicator/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/andreyneto/.gradle/caches/transforms-2/files-2.1/2543087e170d6370694cede166017bbe/appcompat-1.1.0/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/andreyneto/Documents/MyApplication/image-progress-indicator/build/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/andreyneto/.gradle/caches/transforms-2/files-2.1/2543087e170d6370694cede166017bbe/appcompat-1.1.0/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/andreyneto/Documents/MyApplication/image-progress-indicator/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/andreyneto/.gradle/caches/transforms-2/files-2.1/2543087e170d6370694cede166017bbe/appcompat-1.1.0/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/andreyneto/Documents/MyApplication/image-progress-indicator/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/andreyneto/.gradle/caches/transforms-2/files-2.1/2543087e170d6370694cede166017bbe/appcompat-1.1.0/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/andreyneto/Documents/MyApplication/image-progress-indicator/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/Users/andreyneto/.gradle/caches/transforms-2/files-2.1/2543087e170d6370694cede166017bbe/appcompat-1.1.0/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/andreyneto/Documents/MyApplication/image-progress-indicator/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/andreyneto/.gradle/caches/transforms-2/files-2.1/2543087e170d6370694cede166017bbe/appcompat-1.1.0/res/color-v23/abc_color_highlight_material.xml"
+    }
+]
