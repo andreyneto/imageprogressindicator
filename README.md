@@ -4,27 +4,27 @@
 **Step 1.** Add the JitPack repository to your build file.
 Add it in your root build.gradle at the end of repositories:
 ```css
-	allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
+allprojects {
+	repositories {
+		...
+		maven { url 'https://jitpack.io' }
 	}
+}
 ```
 **Step 2.**  Add the dependency
 
 ```css
-	dependencies {
-	        implementation 'com.github.andreyneto:imageprogressindicator:1.0.1'
-	}
+dependencies {
+	implementation 'com.github.andreyneto:imageprogressindicator:1.0.1'
+}
 ```
 ## Usage
 **Step 1.** Add view to layout
 ```xml
-    <app.sorocaba.imageprogressindicator.ImageProgressIndicator
-        android:id="@+id/image_progress_indicator"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
+<app.sorocaba.imageprogressindicator.ImageProgressIndicator
+	android:id="@+id/image_progress_indicator"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"/>
 ```
 **Step 2.** Initialize with params
 ```kotlin
