@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+color image_progress_indicator_background
+color image_progress_indicator_foreground
+color image_progress_indicator_shape
+color image_progress_indicator_text
+dimen image_progress_indicator_horizontal_margin
+drawable arrow_image_progress_indicator
+drawable background_image_progress_indicator
+drawable foreground_image_progress_indicator
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id backgroundv
+id dummyGuide
+id image_progress_indicator
+id indicator
+id label_value
+id progress
+id seekBar
+layout activity_main
+layout layout_image_progress_indicator
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style AppTheme

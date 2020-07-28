@@ -1,0 +1,1 @@
+/Users/andreyneto/Documents/MyApplication/app/src/androidTest/java/app/sorocaba/myapplication/ExampleInstrumentedTest.kt
