@@ -1,5 +1,7 @@
+
 # Image Progress Indicator
 [![Release](https://jitpack.io/v/andreyneto/imageprogressindicator.svg)](https://jitpack.io/#andreyneto/imageprogressindicator/1.0.1)
+![Sample](https://github.com/andreyneto/imageprogressindicator/blob/master/sample.jpeg?raw=true)
 ##  Gradle
 **Step 1.** Add the JitPack repository to your build file.
 Add it in your root build.gradle at the end of repositories:
